@@ -1,4 +1,3 @@
-
 <center>
 <a href="https://tomasm0703.github.io/"><img alt="AI" width='100%' height="50%" src='https://ethz.ch/en/news-and-events/artificial-intelligence/_jcr_content/pageimages/image.imageformat.lightbox.375839078.gif'></a>
 </center>
